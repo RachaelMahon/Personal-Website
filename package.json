@@ -1,0 +1,26 @@
+{
+  "name": "rachaelmahon",
+  "version": "1.0.0",
+  "description": "Portfolio and personal website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RachaelMahon/Personal-Website.git"
+  },
+  "author": "Rachael Mahon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RachaelMahon/Personal-Website/issues"
+  },
+  "homepage": "https://github.com/RachaelMahon/Personal-Website#readme",
+  "devDependencies": {
+    "jasmine": "^2.5.2"
+  },
+  "dependencies": {
+    "express": "^4.14.0",
+    "jasmine-node": "^1.14.5"
+  }
+}
